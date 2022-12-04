@@ -1,6 +1,6 @@
 # _Dog Factory_
 
-#### By _**Hans Ellis**_
+#### By _**Hans Ellis & Remy Flores**_
 
 #### _A site dedicated to the creation and display of AI generated dogs_
 
@@ -23,7 +23,7 @@ _{Dog factory presents itself as a simple webpage about a dog named Crystal. Upo
 
 ## Known Bugs
 
-* _none_
+* _Working on getting the Dalle Api to work_
 
 
 ## License
@@ -31,4 +31,4 @@ _{Dog factory presents itself as a simple webpage about a dog named Crystal. Upo
 MIT
 
 
-Copyright (c) _2022_ _Hans Ellis_
+Copyright (c) _2022_ _Hans Ellis & Remy Flores_
